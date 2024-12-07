@@ -1,7 +1,7 @@
 ## Hi, I'm Amirparsa Rouhi 👋
 # 💫 About Me:
-![image](https://github.com/user-attachments/assets/4596b27e-595b-4e0a-89c0-3ad520673bdb) I'm currently studying MSc of AI and Data Science at Bournemouth University, UK<br>
-![image](https://github.com/user-attachments/assets/2386963d-8950-44c6-ac44-b17bdec30a04) Also I'm a full stack developer<br>
+![image](https://github.com/user-attachments/assets/3b220f35-a4fa-49ba-a2e3-1609b90fcc0b) I'm currently studying MSc of AI and Data Science at Bournemouth University, UK<br>
+![image](https://github.com/user-attachments/assets/06e6f7ae-dfa5-4fd8-8832-945fb9048e02) Also I'm a full stack developer<br>
 🔭 I'm currently working on LLMs<br>
 🌱 I'm learning generative AI and blockchain
 
