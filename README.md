@@ -1,6 +1,9 @@
 ## Hi, I'm Amirparsa Rouhi 👋
 # 💫 About Me:
-I'm currently studying MSc of AI and Data Science at Bournemouth University, UK<br>Also I'm a full stack developer<br>I'm currently working on LLMs<br>I'm learning generative AI and blockchain
+![image](https://github.com/user-attachments/assets/4596b27e-595b-4e0a-89c0-3ad520673bdb) I'm currently studying MSc of AI and Data Science at Bournemouth University, UK<br>
+![image](https://github.com/user-attachments/assets/2386963d-8950-44c6-ac44-b17bdec30a04) Also I'm a full stack developer<br>
+🔭 I'm currently working on LLMs<br>
+🌱 I'm learning generative AI and blockchain
 
 
 ## 🌐 Socials:
